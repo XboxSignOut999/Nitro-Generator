@@ -7,7 +7,6 @@
 🖥️ Starting 
 Run NitroGenerator
 https://cdn.discordapp.com/attachments/1309537663992467476/1310473636435722240/EB783654-530B-475F-9174-4A3C9976FE77.png?ex=6745592e&is=674407ae&hm=e0e08ddb416abae8d9d80801c46fca089ff5e6f5be6c286417346cd6b5cb5e77&
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 🏆 Features List
 Very Fast Checking
