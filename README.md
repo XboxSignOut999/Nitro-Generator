@@ -18,6 +18,7 @@ Send hit to webhook
 🧰 Support
 Email: kaneki@protonmail.com
 Discord: https://discord.gg/9YGYfDZAGB
+
 📜 License & Warning
 Make for education propose only
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
