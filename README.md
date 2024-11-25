@@ -21,5 +21,3 @@ Discord: https://discord.gg/9YGYfDZAGB
 
 📜 License & Warning
 Make for education propose only
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
