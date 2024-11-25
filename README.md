@@ -14,7 +14,7 @@ Proxy support: http/s, socks4/5, Premium
 Simple Usage
 Custom Thread
 Send hit to webhook
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 🧰 Support
 Email: kaneki@protonmail.com
 Discord: https://discord.gg/9YGYfDZAGB
